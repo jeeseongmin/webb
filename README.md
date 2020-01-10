@@ -15,7 +15,7 @@ https://github.com/jeeseongmin/webb/tree/master/WebContent/JSP%202
 https://github.com/jeeseongmin/webb/tree/master/WebContent/JSP%202
 
 ### EL 설명
-
+https://github.com/jeeseongmin/webb/wiki/EL(Expression-Language)-%EC%84%A4%EB%AA%85
 
 ### EL 예제
 https://github.com/jeeseongmin/webb/tree/master/WebContent/JSP%202/EL
