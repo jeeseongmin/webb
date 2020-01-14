@@ -19,3 +19,17 @@ https://github.com/jeeseongmin/webb/wiki/EL(Expression-Language)-%EC%84%A4%EB%AA
 
 ### EL 예제
 https://github.com/jeeseongmin/webb/tree/master/WebContent/JSP%202/EL
+
+----------------------------------
+## 2020-01-10 JSP #3 homework
+### JSTL 예제
+https://github.com/jeeseongmin/webb/tree/master/WebContent/JSTL
+
+### JSP 회원가입 예제 실습
+https://github.com/jeeseongmin/webb/tree/master/WebContent/JSP_CRUD
+
+### JSP CRUD Example1 실습
+https://github.com/jeeseongmin/webb/tree/master/WebContent/JSP_CRUD
+
+----------------------------------------
+## 2020-01-13 JSP #4 homework
