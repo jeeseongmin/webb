@@ -13,7 +13,7 @@
      url="jdbc:mysql://localhost/test?serverTimezone=UTC&characterEncoding=utf8"  
      user="root"  password="0422"/>  
 <sql:update dataSource="${db}" var="count">  
-INSERT INTO Students VALUES (154,'Nasreen', 'jaha', 25);  
+INSERT INTO Students VALUES (155,'Jee', 'sung', 25);  
 </sql:update>  
   
 <sql:query dataSource="${db}" var="rs">  
